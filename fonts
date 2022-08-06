@@ -1,0 +1,481 @@
+fontconfig - generic font configuration library - support binaries
+fontconfig-config - generic font configuration library - configuration
+fonts-arabeyes - Arabeyes GPL TrueType Arabic fonts
+fonts-arphic-ukai - "AR PL UKai" Chinese Unicode TrueType font collection Kaiti style
+fonts-arphic-uming - "AR PL UMing" Chinese Unicode TrueType font collection Mingti style
+fonts-beng - Metapackage to install Bengali and Assamese fonts
+fonts-beng-extra - TrueType fonts for Bengali language
+fonts-dejavu-core - Vera font family derivate with additional characters
+fonts-dejavu-extra - Vera font family derivate with additional characters (extra variants)
+fonts-deva - Meta package to install all Devanagari fonts
+fonts-deva-extra - Free fonts for Devanagari script
+fonts-droid-fallback - handheld device font with extensive style and language support (fallback)
+fonts-farsiweb - free TrueType fonts for Persian language
+fonts-font-awesome - iconic font designed for use with Twitter Bootstrap
+fonts-freefont-ttf - Freefont Serif, Sans and Mono Truetype fonts
+fonts-gargi - OpenType Devanagari font
+fonts-gubbi - Gubbi free font for Kannada script
+fonts-gujr - Meta package to install all Gujarati fonts
+fonts-gujr-extra - Free fonts for Gujarati script
+fonts-guru - Meta package to install all Punjabi fonts
+fonts-guru-extra - Free fonts for Punjabi language
+fonts-hosny-amiri - Arabic Naskh style typographically oriented font
+fonts-indic - Meta package to install all Indian language fonts
+fonts-kacst - KACST free TrueType Arabic fonts
+fonts-kacst-one - TrueType font designed for Arabic language
+fonts-kalapi - Kalapi Gujarati Unicode font
+fonts-khmeros - KhmerOS Unicode fonts for the Khmer language of Cambodia
+fonts-khmeros-core - KhmerOS Unicode fonts for the Khmer language of Cambodia
+fonts-knda - Meta package for Kannada fonts
+fonts-lao - TrueType font for Lao language
+fonts-lato - sans-serif typeface family font
+fonts-liberation - Fonts with the same metrics as Times, Arial and Courier
+fonts-liberation2 - Fonts with the same metrics as Times, Arial and Courier (v2)
+fonts-lklug-sinhala - Unicode Sinhala font by Lanka Linux User Group
+fonts-lohit-beng-assamese - Lohit TrueType font for Assamese Language
+fonts-lohit-beng-bengali - Lohit TrueType font for Bengali Language
+fonts-lohit-deva - Lohit TrueType font for Devanagari script
+fonts-lohit-gujr - Lohit TrueType font for Gujarati Language
+fonts-lohit-guru - Lohit TrueType font for Punjabi Language
+fonts-lohit-knda - Lohit TrueType font for Kannada Language
+fonts-lohit-mlym - Lohit TrueType font for Malayalam Language
+fonts-lohit-orya - Lohit TrueType font for Oriya Language
+fonts-lohit-taml - Lohit TrueType font for Tamil Language
+fonts-lohit-taml-classical - Lohit Tamil TrueType fonts for Tamil script
+fonts-lohit-telu - Lohit TrueType font for Telugu Language
+fonts-manchufont - Smart OpenType font for Manchu script
+fonts-mlym - Meta package to install all Malayalam fonts
+fonts-nafees - nafees free OpenType Urdu fonts
+fonts-nakula - Free Unicode compliant Devanagari font
+fonts-navilu - Handwriting font for Kannada
+fonts-noto-cjk - "No Tofu" font families with large Unicode coverage (CJK regular and bold)
+fonts-noto-cjk-extra - "No Tofu" font families with large Unicode coverage (CJK all weight)
+fonts-noto-color-emoji - color emoji font from Google
+fonts-noto-core - "No Tofu" font families with large Unicode coverage (core)
+fonts-noto-mono - "No Tofu" monospaced font family with large Unicode coverage
+fonts-opensymbol - OpenSymbol TrueType font
+fonts-orya - Meta package to install all Oriya fonts
+fonts-orya-extra - Free fonts for Odia script
+fonts-pagul - Free TrueType font for the Sourashtra language
+fonts-sahadeva - Free Unicode compliant Devanagari font
+fonts-samyak-deva - Samyak TrueType font for Devanagari script
+fonts-samyak-gujr - Samyak TrueType font for Gujarati language
+fonts-samyak-mlym - Samyak TrueType font for Malayalam language
+fonts-samyak-taml - Samyak TrueType font for Tamil language
+fonts-sarai - truetype font for devanagari script
+fonts-sil-abyssinica - Unicode font for the Ethiopic script
+fonts-sil-ezra - smart Unicode font for Hebrew
+fonts-sil-nuosusil - Unicode font for Yi (a script used in southwestern China)
+fonts-sil-padauk - Burmese Unicode TrueType font with OpenType and Graphite support
+fonts-sil-scheherazade - smart Unicode font for Arabic
+fonts-smc - Metapackage for various TrueType fonts for Malayalam Language
+fonts-smc-anjalioldlipi - AnjaliOldLipi malayalam font
+fonts-smc-chilanka - Chilanka malayalam font
+fonts-smc-dyuthi - Dyuthi malayalam font
+fonts-smc-gayathri - Gayathri Malayalam font
+fonts-smc-karumbi - Karumbi malayalam font
+fonts-smc-keraleeyam - Keraleeyam malayalam font
+fonts-smc-manjari - Manjari malayalam font
+fonts-smc-meera - Meera malayalam font
+fonts-smc-rachana - Rachana malayalam font
+fonts-smc-raghumalayalamsans - RaghuMalayalamSans malayalam font
+fonts-smc-suruma - Suruma malayalam font
+fonts-smc-uroob - Uroob malayalam font
+fonts-taml - Meta package to install all Tamil fonts
+fonts-telu - Meta package to install all Telugu fonts
+fonts-telu-extra - Free fonts for Telugu script
+fonts-thai-tlwg - Thai fonts maintained by TLWG (metapackage)
+fonts-tibetan-machine - font for Tibetan, Dzongkha and Ladakhi (OpenType Unicode)
+fonts-tlwg-garuda - Thai Garuda font (dependency package)
+fonts-tlwg-garuda-ttf - Thai Garuda TrueType font
+fonts-tlwg-kinnari - Thai Kinnari font (dependency package)
+fonts-tlwg-kinnari-ttf - Thai Kinnari TrueType font
+fonts-tlwg-laksaman - Thai Laksaman font (dependency package)
+fonts-tlwg-laksaman-ttf - Thai Laksaman TrueType font
+fonts-tlwg-loma - Thai Loma font (dependency package)
+fonts-tlwg-loma-ttf - Thai Loma TrueType font
+fonts-tlwg-mono - Thai TlwgMono font (dependency package)
+fonts-tlwg-mono-ttf - Thai TlwgMono TrueType font
+fonts-tlwg-norasi - Thai Norasi font (dependency package)
+fonts-tlwg-norasi-ttf - Thai Norasi TrueType font
+fonts-tlwg-purisa - Thai Purisa font (dependency package)
+fonts-tlwg-purisa-ttf - Thai Purisa TrueType font
+fonts-tlwg-sawasdee - Thai Sawasdee font (dependency package)
+fonts-tlwg-sawasdee-ttf - Thai Sawasdee TrueType font
+fonts-tlwg-typewriter - Thai TlwgTypewriter font (dependency package)
+fonts-tlwg-typewriter-ttf - Thai TlwgTypewriter TrueType font
+fonts-tlwg-typist - Thai TlwgTypist font (dependency package)
+fonts-tlwg-typist-ttf - Thai TlwgTypist TrueType font
+fonts-tlwg-typo - Thai TlwgTypo font (dependency package)
+fonts-tlwg-typo-ttf - Thai TlwgTypo TrueType font
+fonts-tlwg-umpush - Thai Umpush font (dependency package)
+fonts-tlwg-umpush-ttf - Thai Umpush TrueType font
+fonts-tlwg-waree - Thai Waree font (dependency package)
+fonts-tlwg-waree-ttf - Thai Waree TrueType font
+fonts-ubuntu - sans-serif font set from Ubuntu
+fonts-ubuntu-console - console version of the Ubuntu Mono font
+fonts-ukij-uyghur - fonts for Uyghur language
+fonts-urw-base35 - font set metric-compatible with the 35 PostScript Level 2 Base Fonts
+fonts-yrsa-rasa - Open-source, libre fonts for Latin + Gujarati
+ttf-unifont - TrueType version of GNU Unifont
+fonts-3270 - monospaced font based on IBM 3270 terminals
+fonts-adf-accanthis - Accanthis font of the Arkandis Digital Foundry
+fonts-adf-baskervald - Baskervald font of the Arkandis Digital Foundry
+fonts-adf-berenis - Berenis font of the Arkandis Digital Foundry
+fonts-adf-gillius - Gillius font of the Arkandis Digital Foundry
+fonts-adf-ikarius - Ikarius font of the Arkandis Digital Foundry
+fonts-adf-irianis - Irianis font of the Arkandis Digital Foundry
+fonts-adf-libris - Libris font of the Arkandis Digital Foundry
+fonts-adf-mekanus - Mekanus font of the Arkandis Digital Foundry
+fonts-adf-oldania - Oldania font of the Arkandis Digital Foundry
+fonts-adf-romande - Romande font of the Arkandis Digital Foundry
+fonts-adf-solothurn - Solothurn font of the Arkandis Digital Foundry
+fonts-adf-switzera - Switzera font of the Arkandis Digital Foundry
+fonts-adf-tribun - Tribun font of the Arkandis Digital Foundry
+fonts-adf-universalis - Universalis font of the Arkandis Digital Foundry
+fonts-adf-verana - Verana font of the Arkandis Digital Foundry
+fonts-aksharyogini2 - aksharyogini2 devanagari normal style font
+fonts-alee - free Hangul TrueType fonts
+fonts-alegreya-sans - Humanist Sans Serif family, part of Alegreya fonts
+fonts-allerta - Signage font
+fonts-ancient-scripts - Unicode Fonts for Ancient Scripts
+fonts-aoyagi-kouzan-t - Brush-style Japanese font
+fonts-aoyagi-soseki - Brush-style Japanese font, Aoyagi-Soseki
+fonts-apropal - Sans-serif font for decorative signs, one of the Warsaw Types
+fonts-arkpandora - Replacement fonts for Microsoft's Arial, Times, and Verdana fonts
+fonts-arphic-bkai00mp - "AR PL KaitiM Big5" Chinese TrueType font by Arphic Technology
+fonts-arphic-bsmi00lp - "AR PL Mingti2L Big5" Chinese TrueType font by Arphic Technology
+fonts-arphic-gbsn00lp - "AR PL SungtiL GB" Chinese TrueType font by Arphic Technology
+fonts-arphic-gkai00mp - "AR PL KaitiM GB" Chinese TrueType font by Arphic Technology
+fonts-arundina - Thai DejaVu-compatible fonts
+fonts-atarismall - Very small 4 x 8 font
+fonts-averia-gwf - Avería GWF font family
+fonts-averia-sans-gwf - Avería Sans GWF font family
+fonts-averia-serif-gwf - Avería Serif GWF font family
+fonts-b612 - legible font designed to be used on aircraft cockpit screens
+fonts-babelstone-han - BabelStone Fonts for Han
+fonts-babelstone-modern - BabelStone latin modern font
+fonts-baekmuk - Baekmuk series Korean fonts
+fonts-bajaderka - Warsaw's sign painters styled font
+fonts-bebas-neue - Flat, rounded style font designed by Ryoichi Tsunekawa
+fonts-beteckna - geometric Futura-like sans-serif TrueType font
+fonts-blankenburg - Modern blackletter font
+fonts-bpg-georgian - BPG Georgian fonts
+fonts-breip - informal handwriting font
+fonts-bwht - Six handwritten fonts created for the Because We Had To project
+fonts-cabin - humanist sans serif font
+fonts-cabinsketch - playful sister of the Cabin font family
+fonts-campania - font for Roman numeral analysis (music theory)
+fonts-cantarell - sans serif font family designed for on-screen readability
+fonts-cardo - font for scholarly use in classical and medieval languages
+fonts-cascadia-code - monospaced font designed to enhance appearance of Windows Terminal
+fonts-cegui - Crazy Eddie's GUI (fonts)
+fonts-century-catalogue - century-style font revival
+fonts-circos-symbols - plotter for visualizing data - standard fonts
+fonts-clear-sans - sharp on-screen sans-serif font
+fonts-cmu - sets the computer modern unicode fonts
+fonts-comfortaa - stylish, modern true type font
+fonts-comic-neue - less horrible remake of Comic Sans
+fonts-compagnon - typeface family composed of five distinctive styles
+fonts-courier-prime - redesign of the Courier font
+fonts-croscore - width-compatible fonts for improved on-screen readability
+fonts-crosextra-caladea - Serif font metric-compatible with the Cambria font
+fonts-crosextra-carlito - Sans-serif font metric-compatible with Calibri font
+fonts-cwtex-docs - TrueType Font from cwTeX - example documents
+fonts-cwtex-fs - TrueType Font from cwTeX - FangSong
+fonts-cwtex-heib - TrueType Font from cwTeX - HeiBold
+fonts-cwtex-kai - TrueType Font from cwTeX - Kai
+fonts-cwtex-ming - TrueType Font from cwTeX - Ming
+fonts-cwtex-yen - TrueType Font from cwTeX - Yen
+fonts-dancingscript - lively casual script with bouncing letters and size changes
+fonts-ddc-uchen - ddc  Dzongkha Development Commission free OpenType Tibetan font
+fonts-dejavu - metapackage to pull in fonts-dejavu-core and fonts-dejavu-extra
+fonts-dejima-mincho - antique-looking Japanese TrueType Mincho font
+fonts-dkg-handwriting - font that imitates Daniel Kahn Gillmor's handwriting
+fonts-dosis - very simple, rounded, sans serif font family
+fonts-dseg - Original 7-segment and 14-segment fonts
+fonts-dustin - various TrueType fonts from dustismo.com
+fonts-dzongkha - TrueType fonts for Dzongkha language
+fonts-ebgaramond - EB Garamond OpenType fonts
+fonts-ebgaramond-extra - EB Garamond Initials and TrueType fonts
+fonts-ecolier-court - cursive roman font with small descenders
+fonts-ecolier-lignes-court - cursive roman font (with réglure Seyès and small descenders)
+fonts-eeyek - Eeyek TrueType font for Meetei Mayek script
+fonts-elusive-icons - iconic font and CSS framework
+fonts-emojione - The Emoji One Truetype Bitmap Font
+fonts-entypo - icon fonts of dingbat style by Daniel Bruce
+fonts-essays1743 - Essays 1743 TrueType font
+fonts-eurofurence - family of geometric rounded sans serif fonts
+fonts-evertype-conakry - smart Graphite font for N'Ko
+fonts-f500 - Wipeout 3 Font
+fonts-fantasque-sans - monospaced font variant for programmers
+fonts-fanwood - font similar to the Fairfield font
+fonts-femkeklaver - simple handwriting font
+fonts-ferrite-core - geometric shaped font lending it a futurist look
+fonts-firacode - Monospaced font with programming ligatures
+fonts-fork-awesome - fork of the iconic font and CSS toolkit
+fonts-freefarsi - FreeFarsi TrueType Persian fonts
+fonts-freefont-otf - Freefont Serif, Sans and Mono OpenType fonts
+fonts-gamaliel - black letter face
+fonts-gemunu-libre - new interpretation to FM Gamunu font
+fonts-georgewilliams - Free unicode TrueType fonts by George Williams
+fonts-gfs-artemisia - greek font (Times Greek-like)
+fonts-gfs-baskerville - ancient Greek font revival
+fonts-gfs-bodoni-classic - smart greek typeface revival
+fonts-gfs-complutum - ancient Greek font revival from the University of Alcalá, Spain
+fonts-gfs-didot - greek font family (Didot revival)
+fonts-gfs-didot-classic - greek font family (Classic Didot revival)
+fonts-gfs-gazis - ancient Greek font (Byzantine cursive hand style)
+fonts-gfs-neohellenic - modern Greek font family with matching Latin
+fonts-gfs-olga - ancient Greek oblique font revival (companion to GFS Didot)
+fonts-gfs-porson - Greek font (Porson revival)
+fonts-gfs-solomos - ancient Greek oblique font
+fonts-gfs-theokritos - decorative Greek font
+fonts-glasstty - VT220 terminal font
+fonts-glewlwyd - OAuth2 authentication server providing Json Web Tokens - font files
+fonts-glyphicons-halflings - icons made for smaller graphic
+fonts-gnutypewriter - Multilingual font imitating a real typewriter
+fonts-go - high-quality WGL4 TrueType fonts for Go project
+fonts-gotico-antiqua - 15th century types between gothic and roman
+fonts-goudybookletter - Old style roman font
+fonts-hack - Typeface designed for source code
+fonts-hack-otf - Hack OpenType fonts (transitional package for fonts-hack)
+fonts-hack-ttf - Hack TrueType fonts (transitional package for fonts-hack)
+fonts-hack-web - Hack web fonts (transitional package for fonts-hack)
+fonts-hanazono - Japanese TrueType mincho font by KAGE system and FontForge
+fonts-havana - Old communism style script font from Poland
+fonts-hermit - Monospace Hermit Font for programming
+fonts-horai-umefont - Japanese TrueType font, Ume-font
+fonts-hosny-thabit - fixed width OpenType Arabic fonts
+fonts-humor-sans - Font that looks like handwritten text
+fonts-inconsolata - monospace font for pretty code listings and for the terminal
+fonts-inter - Inter font family
+fonts-ipaexfont - Japanese OpenType font, all IPAex Fonts
+fonts-ipaexfont-gothic - Japanese OpenType font, IPAex Gothic Font
+fonts-ipaexfont-mincho - Japanese OpenType font, IPAex Mincho Font
+fonts-ipafont - Japanese OpenType font set, all IPA Fonts
+fonts-ipafont-gothic - Japanese OpenType font set, IPA Gothic and IPA P Gothic Fonts
+fonts-ipafont-mincho - Japanese OpenType font set, IPA Mincho and IPA P Mincho Fonts
+fonts-ipamj-mincho - Japanese OpenType font, IPAmj Mincho Font
+fonts-isabella - Isabella free TrueType font
+fonts-johnsmith-induni - OTF fonts with exhaustive set of Roman characters
+fonts-jsmath - TeX fonts to display jsMath pages
+fonts-junction - humanist sans-serif typeface
+fonts-junicode - Unicode font for medievalists (Latin, IPA and Runic)
+fonts-jura - monospaced, sans-serif font
+fonts-kanjistrokeorders - font to view stroke order diagrams for Kanji, Kana and etc
+fonts-karla - Grotesque Sans Serif Latin typeface
+fonts-karmilla - Grotesque Sans Serif Latin typeface, extended
+fonts-kaushanscript - script font that feels like writing quickly with an inked brush
+fonts-kiloji - Japanese Truetype font like longhand made by "kilo"
+fonts-klaudia-berenika - font family based on Celtic inscriptions
+fonts-komatuna - modified Konatu and M+ fonts, Komatuna
+fonts-konatu - TrueType Font originally for BeOS
+fonts-kouzan-mouhitsu - Brush-style Japanese font, Kouzan-Mouhitsu
+fonts-kristi - casual cursive script typeface with a "felt-tip pen" feel
+fonts-ldco - set of Hebrew fonts by Louis Davis & Co.
+fonts-le-murmure - titling font with many variated glyphs
+fonts-league-spartan - Bold, modern, geometric sans-serif font
+fonts-leckerli-one - Leckerli One font
+fonts-lemonada - modern Arabic and Latin typeface family
+fonts-levien-museum - metal Centaur fonts revival family
+fonts-levien-typoscript - classic ATF Typo Script revival font
+fonts-lexi-gulim - Lexi Gulim Korean font
+fonts-lexi-saebom - Lexi Saebom Korean font
+fonts-lg-aboriginal - unicode fonts for North-American Aboriginal languages
+fonts-lindenhill - Regular and italic serif font
+fonts-linex - Fonts suitable for education and institutional use
+fonts-linuxlibertine - Linux Libertine family of fonts
+fonts-lmodern - OpenType fonts based on Computer Modern
+fonts-lobster - bold condensed script with many ligatures and alternates
+fonts-lobstertwo - updated and improved family version of the Lobster font
+fonts-lohit-deva-marathi - Lohit TrueType font for Marathi
+fonts-lohit-deva-nepali - Lohit TrueType font for Nepali
+fonts-lyx - TrueType versions of some TeX fonts used by LyX
+fonts-material-design-icons-iconfont - Material Design icons DX
+fonts-materialdesignicons-webfont - font containing Material Design Icons
+fonts-mathjax - JavaScript display engine for LaTeX and MathML (fonts)
+fonts-mathjax-extras - JavaScript display engine for LaTeX and MathML (extra fonts)
+fonts-meera-taml - free font for Tamil
+fonts-migmix - High quality Japanese font based on M+ fonts and IPA fonts
+fonts-millimetre - geometric, constructed sans serif font
+fonts-misaki - Japanese Gothic and Mincho font from "Misaki" bitmap font
+fonts-mmcedar - MMCedar - combined Motoya L Cedar and M+fonts
+fonts-mona - Japanese TrueType font for 2ch ASCII art
+fonts-monapo - Japanese TrueType font, Monapo
+fonts-monlam - Monlam font is a popular Tibetan font created by Lobsang Monlam
+fonts-monofur - terminal font with rounded shapes
+fonts-monoid - open source coding font with bitmap-like sharpness (normal tracking)
+fonts-monoid-halfloose - open source coding font with bitmap-like sharpness (half loose tracking)
+fonts-monoid-halftight - open source coding font with bitmap-like sharpness (half tight tracking)
+fonts-monoid-loose - open source coding font with bitmap-like sharpness (loose tracking)
+fonts-monoid-tight - open source coding font with bitmap-like sharpness (tight tracking)
+fonts-motoya-l-cedar - Japanese Truetype font, Motoya L Cedar
+fonts-motoya-l-maruberi - Japanese Truetype font, Motoya L Maruberi
+fonts-mph-2b-damase - font with character ranges from Unicode 4.1
+fonts-mplus - M+ sans serif fonts with different weights
+fonts-nanum - Nanum Korean fonts
+fonts-nanum-coding - Nanum Coding fixed width Korean TrueType font
+fonts-nanum-eco - Nanum Eco Korean font
+fonts-nanum-extra - Additional Nanum Korean fonts
+fonts-naver-d2coding - D2Coding fixed-width Korean font
+fonts-noto - metapackage to pull in all Noto fonts
+fonts-noto-extra - "No Tofu" font families with large Unicode coverage (extra)
+fonts-noto-hinted - obsolete metapackage to pull in a subset of Noto fonts
+fonts-noto-ui-core - "No Tofu" font families with large Unicode coverage (UI core)
+fonts-noto-ui-extra - "No Tofu" font families with large Unicode coverage (UI extra)
+fonts-noto-unhinted - "No Tofu" font families with large Unicode coverage (unhinted)
+fonts-ocr-a - ANSI font readable by the computers of the 1960s
+fonts-ocr-b - machine-readable typeface as used in passports
+fonts-octicons - GitHub's icons font
+fonts-oflb-asana-math - extended smart Unicode Math font
+fonts-oflb-euterpe - unicode musical font
+fonts-okolaks - decorative, sans serif font
+fonts-oldstandard - smart font with wide range of Latin, Greek and Cyrillic characters
+fonts-open-sans - humanist sans serif typeface by Steve Matteson
+fonts-opendin - Open DIN font
+fonts-opendyslexic - font designed to increase readability for readers with dyslexia
+fonts-oradano-mincho-gsrr - Retro style (Meiji period) Japanese font
+fonts-osifont - ISO 3098-compliant TrueType font for CAD projects
+fonts-oxygen - Oxygen font family
+fonts-paktype - PakType free OpenType Urdu fonts
+fonts-paratype - ParaType font collection for the languages of Russia
+fonts-pecita - OpenType hand-written font whose letters are connected
+fonts-play - minimalistic sans serif typeface
+fonts-povray - Persistence of vision raytracer (3D renderer) fonts
+fonts-powerline - prompt and statusline utility (symbols font)
+fonts-prociono - font similar to the one used for the Debian logo
+fonts-proggy - Monospaced bitmap programming font
+fonts-quattrocento - classic, elegant, sober and strong Roman typeface
+fonts-quicksand - sans-serif font with round attributes
+fonts-radisnoir - font inspired by Bayer Universal and Bauhaus
+fonts-recommended - set of recommended fonts
+fonts-ricty-diminished - font based on Inconsolata and Circle M+ 1m for programming
+fonts-rit-sundar - ornamental font for Malayalam script
+fonts-roadgeek - Set of fonts replicating various road sign typefaces
+fonts-roboto - metapackage to pull in Roboto fonts
+fonts-roboto-fontface - largely geometric, friendly and open curves font
+fonts-roboto-hinted - Google's signature family of fonts (transitional package)
+fonts-roboto-slab - Google's signature family of fonts (slab)
+fonts-roboto-unhinted - Google's signature family of fonts (unhinted)
+fonts-rufscript - handwriting-based font for Latin characters
+fonts-sambhota-tsugring - sambhota tsugring free OpenType Tibetan font
+fonts-sambhota-yigchung - sambhota yigchung free OpenType Tibetan font
+fonts-samyak - Samyak TrueType fonts for Indian languages
+fonts-samyak-orya - Samyak TrueType font for Oriya language
+fonts-sawarabi-gothic - gothic font for Japanese
+fonts-sawarabi-mincho - Japanese mincho font - Sawarabi Mincho font
+fonts-senamirmir-washra - collection of unicode fonts for the Ethiopic script
+fonts-seto - handwriting Japanese font including JIS X 0213 kanji
+fonts-sil-alkalami - Font for Arabic-based writing systems in the Kano region
+fonts-sil-andika - extended smart Unicode Latin/Greek font family for literacy
+fonts-sil-andika-compact - Smart Unicode Latin/Greek fonts for literacy (tight spacing version)
+fonts-sil-andikanewbasic - smart Unicode Latin font family for literacy (more faces, limited charset)
+fonts-sil-annapurna - smart font for languages using Devanagari script
+fonts-sil-awami-nastaliq - Smart Unicode font for the Nastaliq script
+fonts-sil-charis - smart Unicode font family for Roman or Cyrillic-based writing systems
+fonts-sil-charis-compact - smart Unicode fonts for Latin and Cyrillic scripts (tight spacing version)
+fonts-sil-dai-banna - smart Unicode font for Dai Banna (Xishuangbanna Dai)
+fonts-sil-doulos - smart Unicode font for Latin and Cyrillic scripts
+fonts-sil-doulos-compact - smart Unicode font for Latin and Cyrillic scripts (tight spacing version)
+fonts-sil-galatia - font family for Latin-1 and Greek (polytonic support)
+fonts-sil-gentium - extended Unicode Latin font ("a typeface for the nations")
+fonts-sil-gentium-basic - smart Unicode font families (Basic and Book Basic) based on Gentium
+fonts-sil-gentiumplus - extended smart font family for Latin, Greek and Cyrillic
+fonts-sil-gentiumplus-compact - Smart Unicode fonts for Latin, Greek and Cyrillic (tight spacing version)
+fonts-sil-harmattan - Arabic script font for West African languages
+fonts-sil-lateef - OpenType Arabic font for Sindhi and other languages of South Asia
+fonts-sil-mingzat - Unicode font for the Lepcha script
+fonts-sil-mondulkiri - Mondulkiri OpenType font family for Khmer script
+fonts-sil-mondulkiri-extra - Mondulkiri OpenType font family for Khmer script - additional fonts
+fonts-sil-shimenkan - Miao (Pollard) fonts
+fonts-sil-shimenkan-gsm - Miao (Pollard) fonts for Gepo / Bai Yi [ygp]
+fonts-sil-shimenkan-guifan - Miao (Pollard) fonts for Large Flowery Miao, normalised orthography [hmdd]
+fonts-sil-shimenkan-mas - Miao (Pollard) fonts for Small Flowery Miao / Xiaohua Miao [sfm]
+fonts-sil-shimenkan-mgs - Miao (Pollard) fonts for Sinicized Miao / Waishu Miao / Hmong Shua [hmz]
+fonts-sil-shimenkan-salaowu - Miao (Pollard) fonts for Wuding-Luquan Yi / Hei Yi / Nasu [ywqa]
+fonts-sil-shimenkan-sapushan - Miao (Pollard) fonts for Large Flowery Miao / Dahua Miao / A-Hmao [hmd]
+fonts-sil-shimenkan-taogu - Miao (Pollard) fonts for Lipo / Dong Lisu [lpo]
+fonts-sil-shimenkan-zonghe - Miao (Pollard) fonts for Aluo / Gan Yi [yna]
+fonts-sil-sophia-nubian - smart Unicode font family for Nubian languages using Coptic
+fonts-sil-tagmukay - Tifinagh Unicode TrueType font with OT and Graphite support
+fonts-sil-taiheritagepro - typeface reflecting the traditional hand-written style of the Tai Viet script
+fonts-sil-zaghawa-beria - font for Zaghawa Beria (script used in western Sudan and eastern Chad)
+fonts-sipa-arundina - transitional package
+fonts-solide-mirage - libre experimental didone style typeface
+fonts-spleen - monospaced font for consoles and terminals
+fonts-stix - Scientific and Technical Information eXchange fonts
+fonts-symbola - symbolic font providing emoji characters from Unicode 9.0
+fonts-takao - Japanese TrueType font set, Takao Fonts
+fonts-takao-gothic - Japanese TrueType font set, Takao Gothic Fonts
+fonts-takao-mincho - Japanese TrueType font set, Takao Mincho Fonts
+fonts-takao-pgothic - Japanese TrueType font set, Takao P Gothic Fonts
+fonts-taml-tamu - TAMu family of non Unicode fonts for Tamil script
+fonts-taml-tscu - TSCu family of non Unicode fonts for Tamil script
+fonts-teluguvijayam - TrueType fonts for Telugu script (te)
+fonts-terminus - Terminus monospace font
+fonts-texgyre - OpenType fonts based on URW Fonts
+fonts-thai-tlwg-otf - Thai OpenType fonts maintained by TLWG (metapackage)
+fonts-thai-tlwg-ttf - Thai TrueType fonts maintained by TLWG (metapackage)
+fonts-thai-tlwg-web - Thai web fonts maintained by TLWG
+fonts-tiresias - Fonts for the visually impaired
+fonts-tlwg-garuda-otf - Thai Garuda OpenType font
+fonts-tlwg-kinnari-otf - Thai Kinnari OpenType font
+fonts-tlwg-laksaman-otf - Thai Laksaman OpenType font
+fonts-tlwg-loma-otf - Thai Loma OpenType font
+fonts-tlwg-mono-otf - Thai TlwgMono OpenType font
+fonts-tlwg-norasi-otf - Thai Norasi OpenType font
+fonts-tlwg-purisa-otf - Thai Purisa OpenType font
+fonts-tlwg-sawasdee-otf - Thai Sawasdee OpenType font
+fonts-tlwg-typewriter-otf - Thai TlwgTypewriter OpenType font
+fonts-tlwg-typist-otf - Thai TlwgTypist OpenType font
+fonts-tlwg-typo-otf - Thai TlwgTypo OpenType font
+fonts-tlwg-umpush-otf - Thai Umpush OpenType font
+fonts-tlwg-waree-otf - Thai Waree OpenType font
+fonts-tomsontalks - comic lettering font
+fonts-triod-postnaja - Latin+Cyrillic font based on Old Church Slavonic service books
+fonts-tuffy - The Tuffy Truetype Font Family
+fonts-ubuntu-font-family-console - console version of the Ubuntu Mono font (transitional package)
+fonts-ubuntu-title - font used to create the Ubuntu logo (2004‒2010)
+fonts-umeplus - Japanese TrueType gothic fonts, based on Umefont and M+Font
+fonts-umeplus-cl - Japanese TrueType font, based on Ume Gothic Classic and M+ fonts
+fonts-unfonts-core - Un series Korean TrueType fonts
+fonts-unfonts-extra - Un series Korean TrueType fonts (extra)
+fonts-unikurdweb - Unikurd Web free Kurdish font
+fonts-uralic - Truetype fonts for Cyrillic-based Uralic languages
+fonts-vlgothic - Japanese TrueType font from Vine Linux
+fonts-vollkorn - serif body text type
+fonts-wine - Windows API implementation - fonts
+fonts-woowa-bm - Baedal-Minjok decorative Korean fonts
+fonts-wqy-microhei - Sans-serif style CJK font derived from Droid
+fonts-wqy-zenhei - "WenQuanYi Zen Hei" A Hei-Ti Style (sans-serif) Chinese font
+fonts-yanone-kaffeesatz - Font in four weights, reminiscent of 1920s coffee house typography
+fonts-yozvox-yozfont - Japanese proportional Handwriting OpenType font
+fonts-yozvox-yozfont-antique - Japanese proportional Handwriting OpenType font (antique kana)
+fonts-yozvox-yozfont-cute - Japanese proportional Handwriting OpenType font (cute kana)
+fonts-yozvox-yozfont-edu - Japanese proportional Handwriting OpenType font (educational cana)
+fonts-yozvox-yozfont-new-kana - Japanese proportional Handwriting OpenType font (new kana)
+fonts-yozvox-yozfont-standard-kana - Japanese proportional Handwriting OpenType font (standard kana)
+ttf-aenigma - 465 free TrueType fonts by Brian Kent
+ttf-ancient-fonts - Unicode Fonts for Ancient Scripts (transitional package)
+ttf-ancient-fonts-symbola - symbolic font providing emoji chars from Unicode 9.0 (transit. pkg)
+ttf-anonymous-pro - fixed width sans serif font designed for coders
+ttf-bitstream-vera - The Bitstream Vera family of free TrueType fonts
+ttf-denemo - music notation symbol fonts for denemo
+ttf-jsmath - transition dummy package.
+ttf-radisnoir - transitional dummy package for fonts-radisnoir
+ttf-sjfonts - Some Juicy Fonts handwriting fonts
+ttf-ubuntu-font-family - sans-serif font set from Ubuntu (transitional package)
+fonts-cns11643-kai - Chinese TrueType font, TW-Kai
+fonts-cns11643-sung - Chinese TrueType font, TW-Sung
+fonts-ibm-plex - extensive typeface family designed by IBM
+fonts-ipafont-nonfree-jisx0208 - Japanese TrueType font, IPAfont (JISX0208)
+fonts-ipafont-nonfree-uigothic - Japanese TrueType font, IPAfont UI Gothic
+fonts-larabie-deco - Decorative fonts from www.larabiefonts.com
+fonts-larabie-straight - Straight fonts from www.larabiefonts.com
+fonts-larabie-uncommon - Special decorative fonts from www.larabiefonts.com
+fonts-mathematica - installer for Mathematica fonts
+fonts-mikachan - handwritten Japanese Truetype font
+fonts-moe-standard-kai - Chinese TrueType font, standard Kaiti (non-free)
+fonts-moe-standard-song - Chinese TrueType font, standard Song (non-free)
+fonts-mononoki - font for programming and code review
